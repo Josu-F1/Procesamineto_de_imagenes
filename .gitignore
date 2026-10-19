@@ -1,0 +1,13 @@
+# Archivos auxiliares de LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Python y Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
